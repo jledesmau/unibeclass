@@ -1,0 +1,63 @@
+Departamento,Departamento,Tipo de vehículo,Conteo de vehículos
+Junta de,Elecciones,Furgoneta,1
+Junta de,Elecciones,Vehiculosfuera del camino,2
+Consultoría,legar,Todoterreno,1
+Grupo de participación,comunitaria,Camionetas,8
+Grupo de participación,comunitaria,Vehiculosfuera del camino,7
+Grupo de participación,comunitaria,Todoterreno,2
+,,,
+Uso comunitario de,instalaciones públicas,Sedán,1
+Uso comunitario de,instalaciones públicas,Sedán,1
+Protección al,consumidor,Sedán,1
+Corrección y,Rehabilitación,Vehiculosfuera del camino,3
+Corrección y,Rehabilltation,Sedán de  seguridad pública,1
+Corrección y,Rehabilitación,Todoterreno  de seguridad pública,2
+Corrección y,Rehabilitación,Todoterreno,3
+Corrección y,Rehabilitación,Camionetas,1
+Corrección y,Rehabilitación,Furgoneta,8
+Corrección y,Rehabilitación,Sedán  ,10
+Corrección y,Rehabilitación,Crossover,1
+Oficina de ejecutivos,del distrito,Sedán,2
+Oficina de ejecutivos,del distrito,Todoterreno de seguridad pública,3
+Desarrollo,Económico,Todoterreno,1
+,,,
+Protesion,anbientar,Todoterreno,18
+Protesion,anbientar,Sedán,15
+Protesion,anbientar,Furgoneta,3
+Protesion,anbientar,Crossover,1
+Protesion,anbientar,Crossover,1
+Protesion,anbientar,Carga media,2
+Protesion,anbientar,Camionetas,33
+Finanzas,,Sedán,3
+Emergencias,,Todoterreno de seguridad pública,27
+Emergencias,,Camionetas de seguridad pública,12
+Emergencias,,Camionetas de seguridad pública,12
+Emergencias,, Sedán de seguridad pública,18
+Emergencias,,Furgoneta de seguridad pública,11
+,,,
+Emergencias,,Todoterreno,6
+Emergencias,,Furgoneta,4
+Emergencias,,Vehiculosfuera del camino,2
+Emergencias,,Camionetas,12
+Emergencias,,Sedán,1
+Emergencias,,Crossover de seguridad pública,4
+Emergencias,,Carga pesada de seguridad pública,1
+Emergencias,,Carga   pesada,1
+Emergencias,,Autobús de tránsito     ,1
+Emergencias,,Crossover de seguridad pública,4
+,,,
+,,,
+Servicios,generales,Furgoneta de seguridad pública,1
+Servicios,generales,Todoterreno,21
+Servicios,generales,Carga pesada de seguridad pública,1
+Servicios,generales,Vehiculosfuera del camino,45
+Servicios,generales, Sedán,31
+Servicios,generales,Carga media,3
+Servicios,generales,Furgoneta,42
+Servicios,generales,Crossover,5
+Servicios,generales,Carga pesada,5
+Servicios,generales,Camionetas,48
+Salud y servicios,humanos,Crossover,5
+Salud y servicios,humanoj,Furgoneta,15
+Salud y servicios,humanos,Todoterreno de seguridad pública,1
+Salud y servicios,humanos,Sedán,75
